@@ -1,0 +1,1 @@
+# objrct-path-decorator
